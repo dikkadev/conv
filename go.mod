@@ -1,4 +1,4 @@
-module github.com/sett17/conv
+module github.com/dikkadev/conv
 
 go 1.22.1
 
